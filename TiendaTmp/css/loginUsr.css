@@ -1,0 +1,8 @@
+body{ font: 14px sans-serif; }
+        .wrapper{ width: 350px; padding: 40px; margin-left:35%; margin-top:30pt}
+        body{
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-attachment: fixed;
+        min-height: 90%;
+}
